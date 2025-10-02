@@ -4,7 +4,8 @@
 
 **Listen:** [Example Sounds (mp3)](md-drum-synth-examples.mp3)
 
-This software was mainly generated using AI agentic programming.
+This software was mainly generated using AI agentic programming as a test case.
+Details are in this publication: [Agentic Coding with AI: A case study to develop a program for testing synthetic drum models](https://international-symposium.org/amies_2025/proceedings_2025/Manzke_AmiEs_2025_Paper.pdf)
 
 This is a cross-platform, real-time FM drum synthesizer inspired by the Elektron Machinedrum and the EFM (Elektron FM) drum synthesis engine. It provides interactive control and visualization of various FM-based drum models, including Kick, Snare, Tom, Clap, Rimshot, Cowbell, and Cymbal, with a modern GUI and MIDI-like triggering.
 
